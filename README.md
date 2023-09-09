@@ -1,9 +1,13 @@
+[![MasterHead](https://cdn.analyticsvidhya.com/wp-content/uploads/2023/08/System-engineer-to-data-analyst.jpeg)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Harshala Shailani</h1>
 <h3 align="center">Passionate about Data Analyst</h3>
+<img align="right" alt="Coding" width="400" src="https://sureworks.in/images/bigdata.gif")
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshalashailani&label=Profile%20views&color=0e75b6&style=flat" alt="harshalashailani" /> </p>
 
-- 🔭 I’m currently working on **Power BI at PwC**
+- 🔭 I’m currently working on **Alteryx**
 
 - 🌱 I’m currently learning **Data Analyst Skills**
 
